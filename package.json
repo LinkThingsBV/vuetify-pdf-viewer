@@ -1,8 +1,13 @@
 {
   "name": "vuetify-pdf-viewer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Package the encapsulates vuetify framework into provide pdf viewer",
   "main": "./src/plugin.js",
+  "homepage": "https://github.com/LinkThingsBV/vuetify-pdf-viewer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinkThingsBV/vuetify-pdf-viewer.git"
+  },
   "scripts": {
     
     "lint": "vue-cli-service lint",
